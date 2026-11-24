@@ -55,7 +55,8 @@ AI 기반 서비스 및 업무 혁신에 관심을 두고
 ## Projects
 
 
-### 01. C.A.R.E. | 졸업작품
+
+### 01. [C.A.R.E. | 졸업작품](https://github.com/doeonpark/CARE-System)
 AI 기반 지능형 시약 냉장고 개발
 
 - 기간: 2025.12 ~ 2026.06
